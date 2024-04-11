@@ -39,6 +39,7 @@
                     img-alt="Donate to the James P. Taylor Foundation for Open Science"
                 ></b-carousel-slide>
             </a>
+        </b-carousel>
     </div>
 </template>
 
